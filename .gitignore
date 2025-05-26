@@ -1,0 +1,4 @@
+logs/
+install.toml
+post-install.toml
+installer
